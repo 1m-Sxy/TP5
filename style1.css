@@ -1,0 +1,21 @@
+h1 {
+    font-size: 2em;
+    color: red;
+    font-family: 'Arial Black';
+    text-align: center;
+}
+
+/* Style pour le titre de niveau 2 */
+h2 {
+    font-size: 1.4em;
+    color: blue;
+    font-family: Arial ;
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Style pour les paragraphes */
+p {
+    color: black;
+    font-family: Verdana;
+}

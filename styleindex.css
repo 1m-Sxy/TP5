@@ -1,0 +1,23 @@
+h1 {
+	text-align: center;
+	box-shadow: 2px 4px 1px;
+	margin-left: 150px;
+	margin-right: 150px;
+	padding: 10px;
+	background-color: grey;
+	border-radius: 4px;
+}
+
+.Navi {
+	box-shadow: 2px 4px 1px;
+	margin-right: 700px;
+	margin-left:50px;
+	margin-bottom: 500px;
+	text-align: center;
+	background-color: grey;
+	border-radius: 4px;
+}
+
+nav {
+	text-align: center;
+}
